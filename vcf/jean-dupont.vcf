@@ -1,0 +1,6 @@
+BEGIN:VCARD
+VERSION:3.0
+FN:Jean Dupont
+TEL;TYPE=CELL:+33612345678
+EMAIL:jean.dupont@example.com
+END:VCARD
